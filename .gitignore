@@ -11,3 +11,7 @@ web-build/
 
 # macOS
 .DS_Store
+/.idea/game-review.iml
+/.idea/modules.xml
+/.idea/runConfigurations.xml
+/.idea/vcs.xml
